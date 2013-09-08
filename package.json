@@ -1,0 +1,10 @@
+{   
+  "name": "geo-plotter-node",
+  "description": "Allow user to view web page and select text to be searched by google maps and plotted to map to give location based with relativity.",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+  	"express": "3.x",
+  	"jade": "0.28.2"
+  }
+}

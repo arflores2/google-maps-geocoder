@@ -1,0 +1,5 @@
+Geocoder in Node
+
+Purpose
+This is a geocoder example that sends input to a node server that uses Google Maps Geocoding service to return results.
+
